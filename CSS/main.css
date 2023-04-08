@@ -1,0 +1,30 @@
+.site-header{
+    background-color: cyan;
+    color: black;
+    font-family: monospace;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-pic{
+    border-radius: 50%;
+    height :200px;
+    width : 200px;
+    box-shadow: #e6efef 2px 5px 3px;
+}
+
+.course-link{
+    color: black;
+}
+
+.site-header-content{
+
+    margin: 10px;
+}
+
+body {
+    margin: 0;
+}
